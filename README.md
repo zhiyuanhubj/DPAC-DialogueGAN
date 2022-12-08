@@ -6,9 +6,11 @@ We based code for the generator on seq2seq models from IBM (https://github.com/I
 ## Questions List:
 
 ## Have been done:
-1 load the parameter file. Pretraining the model, then the file would be created.
-2 Padding long should be flexible and changable.
-3 quliative transprant
+- load the parameter file. Pretraining the model, then the file would be created.
+
+- Padding long should be flexible and changable.
+
+- quliative transprant
 
 ## Havn't
 - clip the gredient
