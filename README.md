@@ -17,12 +17,17 @@ We based code for the generator on seq2seq models from IBM (https://github.com/I
 
 ## Code structure
 
-1 generator structure
+- generator structure
+
 initial generator(generator.py-->Seq2Seq/Seq2Seq.py--> EncoderRNN and DecoderRNN)
-pretrain the generator
-intial discriminator
-pretrain discriminator
-adversial training
+
+- pretrain the generator
+
+- intial discriminator
+
+- pretrain discriminator
+
+- adversial training
 
 4 SeqGAN and DPGAN
 
