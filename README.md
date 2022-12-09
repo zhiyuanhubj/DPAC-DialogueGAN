@@ -12,6 +12,8 @@ We based code for the generator on seq2seq models from IBM (https://github.com/I
 
 - quliative transprant
 
+-- definition of 'GEN_MLE_LR'
+
 ## Havn't
 - clip the gredient
 - iter problem when utilizing customer dataset(test)
