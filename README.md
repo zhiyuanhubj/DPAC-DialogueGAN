@@ -10,7 +10,7 @@ We based code for the generator on seq2seq models from IBM (https://github.com/I
 
 - Padding long should be flexible and changable.
 
-- quliative transprant
+- quliative transprant(t() and gpu loader)
 
 -- definition of 'GEN_MLE_LR'
 
